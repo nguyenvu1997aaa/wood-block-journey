@@ -1,0 +1,181 @@
+
+logo.png
+size: 380,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ground_add
+  rotate: false
+  xy: 4, 158
+  size: 311, 110
+  orig: 311, 110
+  offset: 0, 0
+  index: -1
+journey_e
+  rotate: false
+  xy: 119, 5
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+journey_j
+  rotate: true
+  xy: 246, 73
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+journey_lower
+  rotate: false
+  xy: 4, 43
+  size: 238, 61
+  orig: 238, 61
+  offset: 0, 0
+  index: -1
+journey_n
+  rotate: false
+  xy: 246, 35
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+journey_o_upper
+  rotate: false
+  xy: 41, 5
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+journey_r
+  rotate: true
+  xy: 4, 4
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+journey_u
+  rotate: true
+  xy: 287, 5
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+journey_y
+  rotate: true
+  xy: 297, 46
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 297, 79
+  size: 52, 25
+  orig: 52, 46
+  offset: 0, 21
+  index: -1
+leaf2
+  rotate: false
+  xy: 319, 225
+  size: 48, 43
+  orig: 55, 47
+  offset: 0, 4
+  index: -1
+leaf3
+  rotate: false
+  xy: 353, 67
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: true
+  xy: 319, 165
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+leaf5
+  rotate: true
+  xy: 218, 4
+  size: 35, 20
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+roof1_redraw
+  rotate: false
+  xy: 371, 216
+  size: 3, 52
+  orig: 3, 52
+  offset: 0, 0
+  index: -1
+small_leaf1
+  rotate: true
+  xy: 359, 144
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+small_leaf2
+  rotate: false
+  xy: 358, 121
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+wood_block_b
+  rotate: false
+  xy: 153, 4
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+wood_block_c
+  rotate: true
+  xy: 242, 6
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+wood_block_d
+  rotate: false
+  xy: 346, 25
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+wood_block_k
+  rotate: true
+  xy: 78, 9
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+wood_block_l
+  rotate: false
+  xy: 359, 174
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+wood_block_lower
+  rotate: false
+  xy: 4, 112
+  size: 306, 42
+  orig: 306, 42
+  offset: 0, 0
+  index: -1
+wood_block_o
+  rotate: true
+  xy: 186, 10
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+wood_block_w
+  rotate: true
+  xy: 319, 108
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1

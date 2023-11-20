@@ -1,0 +1,6 @@
+export const MATCH_MODE_SINGLE = 'single'
+export const MATCH_MODE_CHALLENGE_FRIENDS = 'challenge-friends'
+export const MATCH_MODE_MATCHING_GROUP = 'matching-group'
+export const MATCH_MODE_TOURNAMENTS = 'tournaments'
+export const MATCH_MODE_ONLINE = 'online'
+export const MATCH_MODE_JOURNEY = 'journey'

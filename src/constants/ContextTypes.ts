@@ -1,0 +1,5 @@
+export const SHARE_INVITE = 'share_invite'
+export const JOURNEY_INVITE = 'journey_invite'
+export const TOURNAMENT = 'tournament'
+export const CHALLENGE_FRIEND_MATCH = 'challenge_friend_match'
+export const MATCHING_GROUP_MATCH = 'matching_group_match'

@@ -1,0 +1,38 @@
+{
+    "extends": "@tsconfig/recommended/tsconfig.json",
+    "compilerOptions": {
+        "outDir": "types",
+        "module": "esnext",
+        "target": "esnext",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "sourceMap": false,
+        "declaration": false,
+        "allowJs": true,
+        "baseUrl": "./src",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "downlevelIteration": true,
+        "strictPropertyInitialization": false,
+        "paths": {
+            "@/*": ["*"]
+        }
+    },
+    "typeRoots": [
+        "./node_modules/@types",
+        "./phaser/types",
+        "./node_modules/@sentry/types",
+        "./src/types",
+        "./src/**/types"
+    ],
+    "exclude": [
+        "./assets",
+        "./build",
+        ".vscode",
+        "./libs",
+        "node_modules",
+        "**/.*/",
+        "./src/game/scenes/_template",
+        "./src/game/gameplay/_template"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "cSpell.words": [
+        "abortcontroller",
+        "ASID",
+        "canbe",
+        "cros",
+        "devcert",
+        "dtos",
+        "Eruda",
+        "fbapp",
+        "filecomplete",
+        "Gameplay",
+        "getdata",
+        "hideable",
+        "LEADERBOARD",
+        "Leaderboards",
+        "libmp",
+        "Localizable",
+        "mozjpeg",
+        "multiatlas",
+        "playersfail",
+        "popstart",
+        "rollbar",
+        "Scroller",
+        "snakemode",
+        "Spector",
+        "spectorjs",
+        "startgame",
+        "tweakpane",
+        "uglifyjs",
+        "YSDK",
+        "tweens",
+        "webfontloader",
+        "topleft",
+        "topright",
+        "bottomleft",
+        "bottomright",
+        "msstart",
+        "PPLID",
+        "HMACSHA"
+    ],
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/env/**": true,
+        "**/.webpack_cache/**": true
+    },
+    "files.exclude": {
+        "**/bower_components": true,
+        "**/.webpack_cache/**": true,
+        "phaser/lib/bundle-stats.html": true,
+        "phaser/lib/stats/bundle-stats.html": true
+    },
+    "search.exclude": {
+        "**/.webpack_cache/**": true,
+        "**/*.code-search": true,
+        "**/bower_components": true,
+        "**/node_modules": true
+    },
+    "files.eol": "\n",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "docwriter.hotkey.windows": "Alt + ."
+}

@@ -1,0 +1,629 @@
+{
+	"textures": [
+		{
+			"image": "gameplay-32-resources.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 371,
+				"h": 445
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gem/block_gradient/block_color1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 76,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 150,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 224,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 298,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 2,
+						"y": 372,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 76,
+						"y": 2,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 76,
+						"y": 76,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 76,
+						"y": 150,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/block_gradient/block_color10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 76,
+						"y": 224,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 76,
+						"y": 298,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-10_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 76,
+						"y": 372,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 150,
+						"y": 2,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-11_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 150,
+						"y": 76,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 150,
+						"y": 150,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-12_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 150,
+						"y": 224,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 150,
+						"y": 298,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-13_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 150,
+						"y": 372,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 224,
+						"y": 2,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-14_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 224,
+						"y": 76,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 224,
+						"y": 150,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/diamond/diamond-15_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 224,
+						"y": 224,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 224,
+						"y": 298,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem_glare",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 224,
+						"y": 372,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem_highlight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 298,
+						"y": 2,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem_light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 298,
+						"y": 76,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem_silver",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 298,
+						"y": 150,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem_white",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 71
+					},
+					"frame": {
+						"x": 298,
+						"y": 224,
+						"w": 71,
+						"h": 71
+					}
+				},
+				{
+					"filename": "gem/gem_transparent",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 71,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 298,
+						"y": 298,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:40b705d26c95410a087f1a89c2fafef0:2167b92137db5d1bde1a75b0064a07a4:44b1e0ee5b8293a8cbb150ffdf2c4c24$"
+	}
+}

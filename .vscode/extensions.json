@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "streetsidesoftware.code-spell-checker",
+        "atlassian.atlascode",
+        "dbaeumer.vscode-eslint",
+        "visualstudioexptteam.vscodeintellicode",
+        "rvest.vs-code-prettier-eslint",
+        "streetsidesoftware.code-spell-checker-vietnamese",
+        "irongeek.vscode-env",
+        "eamodio.gitlens",
+        "mintlify.document",
+        "chakrounanas.turbo-console-log",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}

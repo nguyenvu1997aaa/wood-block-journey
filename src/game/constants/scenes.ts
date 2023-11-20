@@ -1,0 +1,26 @@
+export const SceneKeys = {
+    BOOT_SCENE: 'BOOT_SCENE',
+    LOAD_SCENE: 'LOAD_SCENE',
+    GAME_SCENE: 'GAME_SCENE',
+    GLOBAL_SCENE: 'GLOBAL_SCENE',
+    DASHBOARD_SCENE: 'DASHBOARD_SCENE',
+    GAME_OVER_SCENE: 'GAME_OVER_SCENE',
+    LEADERBOARD_SCENE: 'LEADERBOARD_SCENE',
+    JOURNEY_SCENE: 'JOURNEY_SCENE',
+    LEVEL_SCENE: 'LEVEL_SCENE',
+
+    // * Dev scenes
+    TEST_SCENE: 'TEST_SCENE',
+    ANIMATIONS_SCENE: 'ANIMATIONS_SCENE',
+}
+
+export const SceneEvents = {
+    SWITCH: Symbol('SWITCH'),
+    LAUNCH: Symbol('LAUNCH'),
+    RUN: Symbol('RUN'),
+}
+
+export enum SceneDepth {
+    SCENE,
+    POPUP,
+}

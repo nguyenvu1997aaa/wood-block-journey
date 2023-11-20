@@ -1,0 +1,34 @@
+
+newbest-trim.png
+size: 223,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Turkish/newbest_Turkish
+  rotate: true
+  xy: 130, 2
+  size: 159, 91
+  orig: 159, 91
+  offset: 0, 0
+  index: -1
+aura1
+  rotate: true
+  xy: 2, 163
+  size: 179, 185
+  orig: 183, 189
+  offset: 2, 2
+  index: -1
+aura2
+  rotate: false
+  xy: 2, 344
+  size: 205, 204
+  orig: 207, 207
+  offset: 1, 2
+  index: -1
+glow
+  rotate: false
+  xy: 2, 30
+  size: 126, 131
+  orig: 145, 144
+  offset: 13, 6
+  index: -1

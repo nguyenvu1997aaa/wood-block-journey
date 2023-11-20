@@ -1,0 +1,8 @@
+pipelines:
+    default:
+        - step:
+              name: Newrelic
+              script:
+                  - pipe: jcountsnr/newrelic_observability_event:0.0.6
+                    variables:
+                        INGEST_KEY: '21018781ae778f08e46cca0b71a7829bFFFFNRAL'
