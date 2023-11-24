@@ -119,7 +119,7 @@
     Sentry.init({
         dsn: dns,
         environment: 'production',
-        release: '3',
+        release: '4',
         tracesSampleRate: '1.0',
     })
     }, 100)</script><script>window.dataLayer = window.dataLayer || [];
@@ -127,5 +127,5 @@
         window.__GA_CONFIG = {
             GAME_NAME: 'Game Core',
             GA_MEASUREMENT_ID: 'null',
-            BUILD_VERSION: '3',
+            BUILD_VERSION: '4',
         }</script><script src="https://assets.msn.com/staticsb/statics/latest/msstart-games-sdk/msstart-v1.0.0-rc.12.min.js"></script></head><body oncontextmenu="event.preventDefault()"><div id="app"></div><script src="sdk.bundle.js"></script><script>"use strict";function initFbInstant(){var t=1,n=setInterval((function(){"FBInstant"in window&&(clearInterval(n),FBInstant.initializeAsync().then((function(){window.focus();var n=FBInstant.player.getID();FBInstant.getEntryPointAsync().then((function(t){initGoogleAnalytics(n,t)})).catch((function(){initGoogleAnalytics(n,"no_entry")})),window.__fbInstantInitiated=!0,window.__fbInstantLoadingTimer=setInterval((function(){FBInstant.setLoadingProgress(t++),t>=30&&clearInterval(window.__fbInstantLoadingTimer)}),80)})))}),50)}function initGoogleAnalytics(t,n){window.__GA_CONFIG.GAME_NAME;var i=window.__GA_CONFIG.BUILD_VERSION,a=window.__GA_CONFIG.GA_MEASUREMENT_ID;if("null"!=a){var e=FBInstant.getEntryPointData()||{},s=e.fbig_ad_id,o=e.fbig_adset_id,_=e.fbig_campaign_id,g=document.createElement("script");g.async=!0,g.src="https://www.googletagmanager.com/gtag/js?id="+a,document.head.appendChild(g),gtag("set","client_storage","none"),gtag("set","client_id","100."+t),gtag("set","user_id",t),gtag("set","send_page_view",!1),gtag("js",new Date),gtag("config",a,{cookie_flags:"SameSite=None;Secure",build:i,medium:n,campaign:_,groups:"GA"}),gtag("set","user_properties",{user_id:t,traffic_source:n,campaign_id:_,adset_id:o,ad_id:s}),gtag("event","app_launch",{send_to:"GA"}),window.__analyticsInitiated=!0}else window.__analyticsInitiated=!0}initFbInstant();</script><script defer="defer" src="vendors.bundle.js"></script><script defer="defer" src="engine.bundle.js"></script><script defer="defer" src="game.bundle.js"></script></body></html>
