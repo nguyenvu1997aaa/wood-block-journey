@@ -1,0 +1,76 @@
+
+fan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fan_base
+  rotate: false
+  xy: 1322, 142
+  size: 182, 100
+  orig: 182, 100
+  offset: 0, 0
+  index: -1
+fan_blure
+  rotate: true
+  xy: 1563, 269
+  size: 346, 374
+  orig: 346, 374
+  offset: 0, 0
+  index: -1
+fan_center_bottom
+  rotate: false
+  xy: 2, 31
+  size: 165, 124
+  orig: 165, 124
+  offset: 0, 0
+  index: -1
+fan_center_top
+  rotate: false
+  xy: 1322, 26
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+fan_leg
+  rotate: false
+  xy: 169, 34
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+fan_spin_big
+  rotate: false
+  xy: 2, 157
+  size: 824, 822
+  orig: 824, 822
+  offset: 0, 0
+  index: -1
+fan_spin_medium
+  rotate: false
+  xy: 828, 244
+  size: 733, 735
+  orig: 733, 735
+  offset: 0, 0
+  index: -1
+fan_spin_small
+  rotate: false
+  xy: 1563, 617
+  size: 387, 362
+  orig: 387, 362
+  offset: 0, 0
+  index: -1
+fan_stable
+  rotate: false
+  xy: 1088, 8
+  size: 232, 234
+  orig: 232, 234
+  offset: 0, 0
+  index: -1
+fan_turn
+  rotate: true
+  xy: 828, 2
+  size: 240, 258
+  orig: 240, 258
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+search_booster.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+search_add
+  rotate: false
+  xy: 906, 611
+  size: 386, 392
+  orig: 386, 392
+  offset: 0, 0
+  index: -1
+search_body
+  rotate: false
+  xy: 910, 137
+  size: 219, 227
+  orig: 219, 227
+  offset: 0, 0
+  index: -1
+search_glass
+  rotate: true
+  xy: 784, 366
+  size: 140, 137
+  orig: 140, 137
+  offset: 0, 0
+  index: -1
+search_glass_shadow
+  rotate: true
+  xy: 632, 355
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+search_gold
+  rotate: false
+  xy: 923, 393
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+search_hand
+  rotate: false
+  xy: 340, 342
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+trace_1
+  rotate: true
+  xy: 632, 508
+  size: 495, 272
+  orig: 495, 272
+  offset: 0, 0
+  index: -1
+trace_2
+  rotate: true
+  xy: 340, 444
+  size: 559, 290
+  orig: 559, 290
+  offset: 0, 0
+  index: -1
+trace_3
+  rotate: false
+  xy: 2, 2
+  size: 629, 336
+  orig: 629, 336
+  offset: 0, 0
+  index: -1
+trace_4
+  rotate: true
+  xy: 2, 340
+  size: 663, 336
+  orig: 663, 336
+  offset: 0, 0
+  index: -1
+v_1
+  rotate: false
+  xy: 1131, 6
+  size: 383, 385
+  orig: 383, 385
+  offset: 0, 0
+  index: -1
+v_2
+  rotate: false
+  xy: 633, 78
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: -1

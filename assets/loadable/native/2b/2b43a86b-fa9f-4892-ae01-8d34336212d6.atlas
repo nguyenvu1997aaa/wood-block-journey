@@ -1,0 +1,90 @@
+
+wand_booster.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dot_shine
+  rotate: false
+  xy: 514, 4
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+galo_2
+  rotate: false
+  xy: 1494, 407
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+laser
+  rotate: true
+  xy: 514, 386
+  size: 92, 874
+  orig: 92, 874
+  offset: 0, 0
+  index: -1
+laser_vfx
+  rotate: false
+  xy: 514, 52
+  size: 333, 332
+  orig: 333, 332
+  offset: 0, 0
+  index: -1
+star_shine
+  rotate: false
+  xy: 1339, 335
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+vfx_star
+  rotate: false
+  xy: 2, 2
+  size: 510, 476
+  orig: 510, 476
+  offset: 0, 0
+  index: -1
+wand_blick_1
+  rotate: false
+  xy: 1129, 157
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+wand_blick_2
+  rotate: false
+  xy: 1236, 282
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+wand_blick_3
+  rotate: false
+  xy: 849, 53
+  size: 124, 67
+  orig: 124, 67
+  offset: 0, 0
+  index: -1
+wand_blick_4
+  rotate: true
+  xy: 1390, 377
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+wand_blick_5
+  rotate: false
+  xy: 1129, 271
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+wand_icon
+  rotate: false
+  xy: 849, 122
+  size: 278, 262
+  orig: 278, 262
+  offset: 0, 0
+  index: -1

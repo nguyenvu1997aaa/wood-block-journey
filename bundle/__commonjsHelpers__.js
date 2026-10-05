@@ -1,0 +1,1 @@
+var n=Object.defineProperty;var r=(t,u)=>n(t,"name",{value:u,configurable:!0});System.register([],(function(t,u){"use strict";return{execute:r((function(){t("g",o);function o(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}r(o,"getDefaultExportFromCjs")}),"execute")}}));
